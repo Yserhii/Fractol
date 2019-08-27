@@ -2,7 +2,7 @@
 
 How to start:
 ```bash
-https://github.com/Yserhii/Fractol && cd Fractol && make
+git clone https://github.com/Yserhii/Fractol.git && cd Fractol && make
 ```
 <di
 v align="center">
